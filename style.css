@@ -1,0 +1,92 @@
+body{
+    color: ;
+    background:;
+    font-size: ;
+    font-weight: ;
+    text-align: center;
+    margin-top: ;
+}
+input{
+    width: 500px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ruma{
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 5px;
+    background: #dfe1e5;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    font: bolder;
+}
+.anti{
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 5px;
+    background: #dfe1e5;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    font: bolder;
+}
+.{
+    background-color: black;
+}
+.green{
+
+height: 100px;
+}
+.red{
+background: red;
+height: 100px;
+}
+.blue{
+background: blue;
+height: 100px;
+}
+.gambo{
+background: green;
+width: 400px;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+border: 8px solid black;
+border-radius: 30px;
+padding-right: 20px;
+padding-top: 20px;
+    
+}
+.crazy{
+    
+}
+.give{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    text-align: ;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding: 10px;
+    
+}
